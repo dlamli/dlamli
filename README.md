@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Statistics
 - 👯 I’m looking to collaborate on ...
 -->
-
-Nice to meet you! my name is Danny Lam I'm Software Engineer with more than three years of experience working as a Web & Sofware Developer. My technology stack involves Javascript, HTML, CSS, SASS, Tailwind, React, Bootstrap, C#, MongoDB, MySQL, and SASS. Besides programming, I have an immense interest in 🎵music, and 🏃sports.
+Software Engineer with more than three years of experience working as a Web & Sofware Developer. My technology stack involves Javascript, HTML, CSS, SASS, Tailwind, React, Bootstrap, C#, MongoDB, MySQL, and SASS. Besides programming, I have an immense interest in 🎵music, and 🏃sports.
 
 - 📫 How to reach me: dannylamli2000@hotmail.com
   
